@@ -1,0 +1,17 @@
+{
+    "version": "0.0.0",
+    "summary": "Elm wrapper for the NodeJS port of CreeperHost Aries API.",
+    "repository": "http://github.com/joedski/creeperhost-aries-elm.git",
+    "license": "ISC",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "CreeperHost.Aries"
+    ],
+    "native-modules": true,
+    "dependencies": {
+        "elm-lang/core": "2.0.0 <= v < 3.0.0"
+    },
+    "elm-version": "0.15.0 <= v < 0.16.0"
+}
